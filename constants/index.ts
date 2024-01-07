@@ -87,7 +87,18 @@ export const Socials = [
   // },
   {
     name: "Instagram",
+    link: "https://www.instagram.com/d3mijs_/",
     src: "/instagram.svg",
+  },
+  {
+    name: "LinkedIn",
+    link: "https://www.linkedin.com/in/demian-juarez-saldaña-874822240/",
+    src: "/linkedin.svg",
+  },
+  {
+    name: "GitHub",
+    link: "https://github.com/D3mm220",
+    src: "/github.svg",
   },
 ];
 export const Projects = [
