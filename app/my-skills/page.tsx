@@ -12,7 +12,7 @@ const page = () => {
       style={{ backgroundImage: "url(/background2.jpg)" }}
       className="h-screen w-screen flex items-center justify-center bg-cover bg-center"
     >
-      <div className="flex flex-col gap-20 w-full text-center items-center">
+      <div className="flex flex-col md:gap-10 w-full text-center items-center">
         <div className="flex flex-col items-center gap-4 pb-14">
           <h1 className="font-semibold text-white text-[50px]">
             Skills{" "}
