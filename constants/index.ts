@@ -110,15 +110,15 @@ export const Projects = [
   },
   {
     title: "PromptLand",
-    text: "Prompt Social Red Created with Next, NextAuth & Typescript",
+    text: "Social Red To Share Prompts Created with Next, NextAuth & Typescript",
     src: "/PromptLand.png",
     link: "https://prompt-land-ten.vercel.app",
   },
   {
-    title: "Modern Nextjs Portfolio",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    src: "/WebPortfolio.png",
-    link: "",
+    title: "ZNEST",
+    text: "(I worked on this project during my internship at GM2). Flatform for contacting senior living comunnities",
+    src: "/znest.png",
+    link: "https://www.znest.com/",
   },
   {
     title: "Matrix themed Website",
